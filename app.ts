@@ -70,7 +70,7 @@ class TodoList {
 
 // Example usage
 const myTodos = new TodoList();
-myTodos.addTodo("Learn TypeScript", new Date("2024-03-10"));
+myTodos.addTodo("Learnn TypeScript", new Date("2024-03-10"));
 myTodos.addTodo("Build a project", new Date("2024-03-15"));
 console.log(myTodos.listTodos());
 myTodos.completeTodo(1);
